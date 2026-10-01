@@ -134,11 +134,10 @@ function Header() {
         <span className="profile-status" aria-label="Unidade ativa" />
       </div>
       <p className="eyebrow">Unidade de Saúde da Família</p>
-      <h1>USF - Andaia Profissionais</h1>
+      <h1>USF - Andaia</h1>
+      <h1 style={{color:"#cb9f00"}}>Profissionais</h1>
       <p className="profile-description">
-        Informação e cuidado mais perto de você. Encontre serviços, documentos e
-        canais da unidade.
-      </p>
+      centralização de informações e recursos em um único local, com o objetivo de facilitar o acesso dos profissionais à materiais utilizados no cotidiano.      </p>
       <nav className="social-links" aria-label="Redes sociais e localização">
         <SocialLink
           href="https://www.instagram.com/usf.andaia/"
